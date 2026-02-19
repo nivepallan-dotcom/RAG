@@ -1,0 +1,14 @@
+The manufacturing plant operates three major turbine units: A, B, and C.
+
+Turbine A experienced repeated overheating during peak production hours. 
+Investigation revealed that improper lubrication and delayed maintenance checks were the primary causes.
+
+Turbine B showed vibration anomalies caused by rotor imbalance. 
+After recalibration, vibration levels dropped by 25 percent.
+
+Turbine C encountered cooling system inefficiencies due to clogged airflow channels.
+Cleaning and airflow optimization improved efficiency by 18 percent.
+
+Preventive maintenance strategies across all turbines reduced unexpected downtime by 35 percent.
+
+Monthly inspections are required to ensure lubrication systems and cooling mechanisms operate within safe thresholds.
