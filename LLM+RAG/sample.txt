@@ -1,0 +1,20 @@
+ The manufacturing facility operates three primary turbine units: Turbine A, Turbine B, and Turbine C.
+
+Turbine A experienced repeated overheating during peak production hours. 
+Engineering analysis determined that the root cause was improper lubrication and delayed preventive maintenance. 
+After implementing a revised lubrication schedule and automated monitoring sensors, overheating incidents decreased by 40 percent.
+
+Turbine B exhibited abnormal vibration levels that exceeded safety thresholds. 
+The issue was traced to rotor imbalance caused by uneven material wear. 
+A recalibration procedure and rotor realignment reduced vibration levels by 25 percent and extended equipment lifespan.
+
+Turbine C suffered from reduced cooling efficiency. 
+Inspection revealed that airflow channels were partially clogged with debris. 
+After cleaning the cooling ducts and optimizing airflow pathways, system efficiency improved by 18 percent.
+
+A company-wide preventive maintenance strategy was later introduced. 
+This included monthly lubrication checks, vibration analysis, and cooling system inspections. 
+As a result, unexpected downtime across all turbine units decreased by 35 percent over six months.
+
+Safety audits now require that all turbines operate within defined thermal and vibration thresholds. 
+Continuous monitoring systems provide real-time alerts if any unit exceeds recommended operating conditions.
